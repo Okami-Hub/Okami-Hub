@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!-- 👋 Yo, I'm Elias (Okami)
-
+Hey Im Elias (Okami)
 Martial artist. Aspiring red teamer. Nerd with a camera.
 
 I’m building a life where I:
